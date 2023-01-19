@@ -1,3 +1,16 @@
+//      ARRAYLIST WITH SORTING DATA ACCORDING TO THE NAMES,AGES,NUMBERS ETC......
+
+
+//TEST COMPARATOR==>  MAIN METHOD
+
+//IMPLEMENTS
+
+// Name Coparator
+// Age Comparator
+// Money Comparator
+
+
+
 package collectionsandframework;
 
 public class Customer 
