@@ -1,3 +1,6 @@
+//  RETRIVING THE DATA BY LIST ITERATOR
+
+
 package Task1;
 
 import java.util.LinkedList;
